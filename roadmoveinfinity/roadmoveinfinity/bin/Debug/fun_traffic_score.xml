@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <playername>t</playername>
+    <score>127</score>
+    <whygameover>signal is red ,but u crossed zibra cross so game over</whygameover>
+  </Score>
+  <Score>
+    <playername>test</playername>
+    <score>36</score>
+    <whygameover>signal is red ,but u crossed zibra cross so game over</whygameover>
+  </Score>
+  <Score>
+    <playername>test</playername>
+    <score>41</score>
+    <whygameover>signal is red ,but u crossed zibra cross so game over</whygameover>
+  </Score>
+  <Score>
+    <playername>test</playername>
+    <score>62</score>
+    <whygameover>signal is red ,but u crossed zibra cross so game over</whygameover>
+  </Score>
+  <Score>
+    <playername>test</playername>
+    <score>11</score>
+    <whygameover>signal is red ,but u crossed zibra cross so game over</whygameover>
+  </Score>
+  <Score>
+    <playername>test</playername>
+    <score>11</score>
+    <whygameover>signal is red ,but u crossed zibra cross so game over</whygameover>
+  </Score>
+  <Score>
+    <playername>sachin</playername>
+    <score>2628</score>
+    <whygameover>signal is red ,but u crossed zibra cross so game over</whygameover>
+  </Score>
+  <Score>
+    <playername>sachin</playername>
+    <score>12591</score>
+    <whygameover>signal is yellow ,but u crossed zibra cross so game over</whygameover>
+  </Score>
+</ArrayOfScore>
